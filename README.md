@@ -28,6 +28,7 @@ Use a lasor cutter and CNC miling machine to make this device.
 + 4mm ボルト x 6
 + 霧化ユニット USH-400 (ECO)
 + 抵抗 5kΩ 1/4w
++ [電源トランス](http://toei-trans.jp/?pid=91217150)
 
 ## program
 `cd program/server/noroc_server/`
