@@ -10,9 +10,11 @@ DTNとはオープンソースのIoT狼煙デバイスです。親機と子機�
 
 ## device
 Use a lasor cutter and CNC miling machine to make this device.
+
 ### material
 + 3mm acrylic
 + 4mm MDF
+
 ### parts list
 + [Arduino Pro Mini 3.3V 8Mhz](https://www.sparkfun.com/products/11114)
 + [TWE-Lite DIP](http://akizukidenshi.com/catalog/g/gM-06760/)
