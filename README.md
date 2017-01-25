@@ -29,5 +29,7 @@ Use a lasor cutter and CNC miling machine to make this device.
 
 ## program
 `cd program/server/noroc_server/`
+
 `npm install`
+
 `node bin/www`
